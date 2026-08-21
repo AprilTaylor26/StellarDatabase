@@ -1,4 +1,4 @@
-# StellarDatabase
+# Stellar Database Project
 A relational SQL database modeling planets, stars, observatories, discoveries, and related astronomical data.
 
 ### Overview
